@@ -16,12 +16,12 @@
 ---
 
 ## Overview
-Recipe Finder is a web application that allows users to search for recipes based on various filters such as diet, cuisine, meal type, and calorie range. Users can sort recipes by popularity, time, or healthiness and navigate through results using a pagination system.
+Recipe Realm is a web application that allows users to search for recipes based on various filters such as diet, cuisine, meal type, and calorie range. Users can sort recipes by popularity, time, or healthiness and navigate through results using a pagination system.
 
 ---
 
 ## Motivation
-The aim of this project was to create an intuitive and user-friendly recipe search tool using modern frontend technologies. It demonstrates the integration of APIs, state management with Redux, and responsive UI design for real-world applications.
+The aim of this project was to create an intuitive and user-friendly recipe search tool using modern frontend technologies. It demonstrates the integration of APIs, state management with Redux, and responsive UI design for real-world applications.An exceptional recipe app that reigns supreme on the internet. No pesky ads, no hidden costs—just mouthwatering dishes for everyone to savor
 
 ---
 
