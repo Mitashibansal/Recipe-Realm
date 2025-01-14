@@ -13,9 +13,6 @@
 
 ## Demo
 
-![Recipe Finder Demo](demo-image-url)  
-**[Live Demo](https://your-live-demo-url.com)**
-
 ---
 
 ## Overview
