@@ -1,7 +1,7 @@
 # Recipe Realm
 
 ## Table of Contents
-1. [Demo](#demo)
+1. [App](#app)
 2. [Overview](#overview)
 3. [Motivation](#motivation)
 4. [Installation](#installation)
@@ -11,7 +11,9 @@
 
 ---
 
-## Demo
+## App
+
+![Recipe Realm](https://github.com/user-attachments/assets/0c2eadbd-9fb7-4cb7-9cb5-cb646979ef2f)
 
 ---
 
