@@ -1,0 +1,81 @@
+/* Basic Styles */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input,
+select {
+  padding: 10px;
+  width: 200px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.recipes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.recipe-card {
+  width: 200px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.recipe-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.recipe-link {
+  display: block;
+  margin-top: 10px;
+  color: #4caf50;
+}
+
+/* Filters and Sorting */
+.filters,
+.sorting {
+  margin: 20px;
+}
+
+.filters select,
+.sorting select {
+  width: 220px;
+  margin-right: 10px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.pagination button {
+  padding: 10px 15px;
+  margin: 0 10px;
+}
+
+button[disabled] {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
