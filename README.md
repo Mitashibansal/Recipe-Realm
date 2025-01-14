@@ -31,11 +31,11 @@ The aim of this project was to create an intuitive and user-friendly recipe sear
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/recipe-finder.git
+   git clone https://github.com/your-username/recipe-realm.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd recipe-finder
+   cd recipe-realm
    ```
 3. Install dependencies:
    ```bash
@@ -52,7 +52,7 @@ The aim of this project was to create an intuitive and user-friendly recipe sear
 ## Directory Tree
 
 ```
-recipe-finder/
+recipe-realm/
 ├── public/
 │   └── index.html
 ├── src/
